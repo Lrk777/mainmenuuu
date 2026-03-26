@@ -1,0 +1,6 @@
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# For full Ontario scrape: pip install -r requirements.txt
+# Then: python scrape_ontario_restaurants.py   (saves to ontario_restaurants.json, progress to scrape_progress_ontario.json)
+# Resume after interrupt: python scrape_ontario_restaurants.py --resume

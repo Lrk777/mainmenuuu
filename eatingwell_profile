@@ -1,0 +1,18 @@
+<script>start("/Users/bandiyaa/Documents/__pycache__/eatingwell_profile/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("component_crx_cache","component_crx_cache",1,96,"96 B",1774460569,"3/25/26, 1:42:49 PM");</script>
+<script>addRow("Default","Default",1,2592,"2.5 kB",1774543691,"3/26/26, 12:48:11 PM");</script>
+<script>addRow("extensions_crx_cache","extensions_crx_cache",1,96,"96 B",1774460602,"3/25/26, 1:43:22 PM");</script>
+<script>addRow("GraphiteDawnCache","GraphiteDawnCache",1,832,"832 B",1774470959,"3/25/26, 4:35:59 PM");</script>
+<script>addRow("GrShaderCache","GrShaderCache",1,224,"224 B",1774460561,"3/25/26, 1:42:41 PM");</script>
+<script>addRow("NativeMessagingHosts","NativeMessagingHosts",1,64,"64 B",1774460559,"3/25/26, 1:42:39 PM");</script>
+<script>addRow("Safe Browsing","Safe%20Browsing",1,64,"64 B",1774460560,"3/25/26, 1:42:40 PM");</script>
+<script>addRow("segmentation_platform","segmentation_platform",1,128,"128 B",1774460560,"3/25/26, 1:42:40 PM");</script>
+<script>addRow("ShaderCache","ShaderCache",1,224,"224 B",1774460559,"3/25/26, 1:42:39 PM");</script>
+<script>addRow("BrowserMetrics-spare.pma","BrowserMetrics-spare.pma",0,4194304,"4.0 MB",1774543135,"3/26/26, 12:38:55 PM");</script>
+<script>addRow("ChromeFeatureState","ChromeFeatureState",0,534,"534 B",1774543045,"3/26/26, 12:37:25 PM");</script>
+<script>addRow("first_party_sets.db","first_party_sets.db",0,49152,"48.0 kB",1774543151,"3/26/26, 12:39:11 PM");</script>
+<script>addRow("first_party_sets.db-journal","first_party_sets.db-journal",0,0,"0 B",1774543151,"3/26/26, 12:39:11 PM");</script>
+<script>addRow("Last Version","Last%20Version",0,12,"12 B",1774543045,"3/26/26, 12:37:25 PM");</script>
+<script>addRow("Local State","Local%20State",0,3647,"3.6 kB",1774543691,"3/26/26, 12:48:11 PM");</script>
+<script>addRow("Variations","Variations",0,85,"85 B",1774543691,"3/26/26, 12:48:11 PM");</script>

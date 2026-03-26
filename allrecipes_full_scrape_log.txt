@@ -1,0 +1,424 @@
+Discovering cuisines from hub pages...
+  Found 71 cuisines to scrape.
+
+[1/71] World Cuisine ...
+  Found 3 recipe links
+  Saved 3 recipes for World Cuisine.
+
+[2/71] Asian ...
+  Found 6 recipe links
+  Saved 6 recipes for Asian.
+
+[3/71] European ...
+  Found 3 recipe links
+  Saved 3 recipes for European.
+
+[4/71] African ...
+  Found 59 recipe links
+  scraped 10/59
+  scraped 20/59
+  scraped 30/59
+  scraped 40/59
+  scraped 50/59
+  Saved 59 recipes for African.
+
+[5/71] Middle Eastern ...
+  Found 50 recipe links
+  scraped 10/50
+  scraped 20/50
+  scraped 30/50
+  scraped 40/50
+  scraped 50/50
+  Saved 50 recipes for Middle Eastern.
+
+[6/71] Latin American ...
+  Found 0 recipe links
+  Saved 0 recipes for Latin American.
+
+[7/71] Mexican ...
+  Found 15 recipe links
+  scraped 10/15
+  Saved 15 recipes for Mexican.
+
+[8/71] Italian ...
+  Found 10 recipe links
+  scraped 10/10
+  Saved 10 recipes for Italian.
+
+[9/71] Chinese ...
+  Could not load cuisine page, skipping.
+
+[10/71] Indian ...
+  Found 56 recipe links
+  scraped 10/56
+  scraped 20/56
+  scraped 30/56
+  scraped 40/56
+  scraped 50/56
+  Saved 56 recipes for Indian.
+
+[11/71] Japanese ...
+  Could not load cuisine page, skipping.
+
+[12/71] Thai ...
+  Could not load cuisine page, skipping.
+
+[13/71] Greek ...
+  Could not load cuisine page, skipping.
+
+[14/71] French ...
+  Found 47 recipe links
+  scraped 10/47
+  scraped 20/47
+  scraped 30/47
+  scraped 40/47
+  Saved 47 recipes for French.
+
+[15/71] German ...
+  Could not load cuisine page, skipping.
+
+[16/71] Spanish ...
+  Could not load cuisine page, skipping.
+
+[17/71] Southern United States ...
+  Could not load cuisine page, skipping.
+
+[18/71] Cajun and Creole ...
+  Could not load cuisine page, skipping.
+
+[19/71] Amish and Mennonite ...
+  Found 60 recipe links
+  scraped 10/60
+  scraped 20/60
+  scraped 30/60
+  scraped 40/60
+  scraped 50/60
+  scraped 60/60
+  Saved 60 recipes for Amish and Mennonite.
+
+[20/71] Jewish ...
+  Could not load cuisine page, skipping.
+
+[21/71] Soul Food ...
+  Could not load cuisine page, skipping.
+
+[22/71] Tex-Mex ...
+  Could not load cuisine page, skipping.
+
+[23/71] New England ...
+  Could not load cuisine page, skipping.
+
+[24/71] Caribbean ...
+  Could not load cuisine page, skipping.
+
+[25/71] Canadian ...
+  Could not load cuisine page, skipping.
+
+[26/71] Korean ...
+  Could not load cuisine page, skipping.
+
+[27/71] Vietnamese ...
+  Could not load cuisine page, skipping.
+
+[28/71] Filipino ...
+  Could not load cuisine page, skipping.
+
+[29/71] Irish ...
+  Could not load cuisine page, skipping.
+
+[30/71] British ...
+  Could not load cuisine page, skipping.
+
+[31/71] Portuguese ...
+  Could not load cuisine page, skipping.
+
+[32/71] Brazilian ...
+  Could not load cuisine page, skipping.
+
+[33/71] Mediterranean ...
+  Could not load cuisine page, skipping.
+
+[34/71] Moroccan ...
+  Could not load cuisine page, skipping.
+
+[35/71] Hawaiian ...
+  Could not load cuisine page, skipping.
+
+[36/71] Skip to content ...
+  Found 3 recipe links
+  Saved 3 recipes for Skip to content.
+
+[37/71] Sweepstakes ...
+  Could not load cuisine page, skipping.
+
+[38/71] Mexican ...
+  Found 15 recipe links
+  scraped 10/15
+  Saved 15 recipes for Mexican.
+
+[39/71] Italian ...
+  Found 10 recipe links
+  scraped 10/10
+  Saved 10 recipes for Italian.
+
+[40/71] Chinese ...
+  Found 46 recipe links
+  scraped 10/46
+  scraped 20/46
+  scraped 30/46
+  scraped 40/46
+  Saved 46 recipes for Chinese.
+
+[41/71] Indian ...
+  Found 56 recipe links
+  scraped 10/56
+  scraped 20/56
+  scraped 30/56
+  scraped 40/56
+  scraped 50/56
+  Saved 56 recipes for Indian.
+
+[42/71] German ...
+  Found 55 recipe links
+  scraped 10/55
+  scraped 20/55
+  scraped 30/55
+  scraped 40/55
+  scraped 50/55
+  Saved 55 recipes for German.
+
+[43/71] Greek ...
+  Found 37 recipe links
+  scraped 10/37
+  scraped 20/37
+  scraped 30/37
+  Saved 37 recipes for Greek.
+
+[44/71] Filipino ...
+  Found 64 recipe links
+  scraped 10/64
+  scraped 20/64
+  scraped 30/64
+  scraped 40/64
+  scraped 50/64
+  scraped 60/64
+  Saved 64 recipes for Filipino.
+
+[45/71] Japanese ...
+  Found 51 recipe links
+  scraped 10/51
+  scraped 20/51
+  scraped 30/51
+  scraped 40/51
+  scraped 50/51
+  Saved 51 recipes for Japanese.
+
+[46/71] Add a Recipe ...
+  Could not load cuisine page, skipping.
+
+[47/71] Account Settings ...
+  Could not load cuisine page, skipping.
+
+[48/71] About Us ...
+  Could not load cuisine page, skipping.
+
+[49/71] African Recipes ...
+  Found 59 recipe links
+  scraped 10/59
+  scraped 20/59
+  scraped 30/59
+  scraped 40/59
+  scraped 50/59
+  Saved 59 recipes for African Recipes.
+
+[50/71] Asian Recipes ...
+  Found 6 recipe links
+  Saved 6 recipes for Asian Recipes.
+
+[51/71] Australian and New Zealander Recipes ...
+  Found 64 recipe links
+  scraped 10/64
+  scraped 20/64
+  scraped 30/64
+  scraped 40/64
+  scraped 50/64
+  scraped 60/64
+  Saved 64 recipes for Australian and New Zealander Recipes.
+
+[52/71] European Recipes ...
+  Found 3 recipe links
+  Saved 3 recipes for European Recipes.
+
+[53/71] Middle Eastern Recipes ...
+  Found 50 recipe links
+  scraped 10/50
+  scraped 20/50
+  scraped 30/50
+  scraped 40/50
+  scraped 50/50
+  Saved 50 recipes for Middle Eastern Recipes.
+
+[54/71] Latin American Recipes ...
+  Found 0 recipe links
+  Saved 0 recipes for Latin American Recipes.
+
+[55/71] Canadian Recipes ...
+  Found 66 recipe links
+  scraped 10/66
+  scraped 20/66
+  scraped 30/66
+  scraped 40/66
+  scraped 50/66
+  scraped 60/66
+  Saved 66 recipes for Canadian Recipes.
+
+[56/71] U.S. Recipes ...
+  Found 0 recipe links
+  Saved 0 recipes for U.S. Recipes.
+
+[57/71] Korean Recipes ...
+  Found 46 recipe links
+  scraped 10/46
+  scraped 20/46
+  scraped 30/46
+  scraped 40/46
+  Saved 46 recipes for Korean Recipes.
+
+[58/71] Thai Recipes ...
+  Found 50 recipe links
+  scraped 10/50
+  scraped 20/50
+  scraped 30/50
+  scraped 40/50
+  scraped 50/50
+  Saved 50 recipes for Thai Recipes.
+
+[59/71] French Recipes ...
+  Found 47 recipe links
+  scraped 10/47
+  scraped 20/47
+  scraped 30/47
+  scraped 40/47
+  Saved 47 recipes for French Recipes.
+
+[60/71] Sweepstakes ...
+  Could not load cuisine page, skipping.
+
+[61/71] Add a Recipe ...
+  Could not load cuisine page, skipping.
+
+[62/71] Account Settings ...
+  Could not load cuisine page, skipping.
+
+[63/71] About Us ...
+  Could not load cuisine page, skipping.
+
+[64/71] Southern Recipes ...
+  Found 38 recipe links
+  scraped 10/38
+  scraped 20/38
+  scraped 30/38
+  Saved 38 recipes for Southern Recipes.
+
+[65/71] Jewish Recipes ...
+  Found 63 recipe links
+  scraped 10/63
+  scraped 20/63
+  scraped 30/63
+  scraped 40/63
+  scraped 50/63
+  scraped 60/63
+  Saved 63 recipes for Jewish Recipes.
+
+[66/71] Soul Food Recipes ...
+  Found 67 recipe links
+  scraped 10/67
+  scraped 20/67
+  scraped 30/67
+  scraped 40/67
+  scraped 50/67
+  scraped 60/67
+  Saved 67 recipes for Soul Food Recipes.
+
+[67/71] U.S. Recipes by State ...
+  Found 21 recipe links
+  scraped 10/21
+  scraped 20/21
+  Saved 21 recipes for U.S. Recipes by State.
+
+[68/71] New England Recipes ...
+  Found 65 recipe links
+  scraped 10/65
+  scraped 20/65
+  scraped 30/65
+  scraped 40/65
+  scraped 50/65
+  scraped 60/65
+  Saved 65 recipes for New England Recipes.
+
+[69/71] Tex-Mex Recipes ...
+  Found 50 recipe links
+  scraped 10/50
+  scraped 20/50
+  scraped 30/50
+  scraped 40/50
+  scraped 50/50
+  Saved 50 recipes for Tex-Mex Recipes.
+
+[70/71] Cajun and Creole Recipes ...
+  Found 43 recipe links
+  scraped 10/43
+  scraped 20/43
+  scraped 30/43
+  scraped 40/43
+  Saved 43 recipes for Cajun and Creole Recipes.
+
+[71/71] Amish and Mennonite Recipes ...
+  Found 60 recipe links
+  scraped 10/60
+  scraped 20/60
+  scraped 30/60
+  scraped 40/60
+  scraped 50/60
+  scraped 60/60
+  Saved 60 recipes for Amish and Mennonite Recipes.
+
+Done. Output: allrecipes_by_cuisine.json
+Cuisines: 36, Total recipes: 1363
+  Wrote allrecipes_by_cuisine/World_Cuisine.json (3 recipes)
+  Wrote allrecipes_by_cuisine/Asian.json (6 recipes)
+  Wrote allrecipes_by_cuisine/European.json (3 recipes)
+  Wrote allrecipes_by_cuisine/African.json (59 recipes)
+  Wrote allrecipes_by_cuisine/Middle_Eastern.json (50 recipes)
+  Wrote allrecipes_by_cuisine/Latin_American.json (0 recipes)
+  Wrote allrecipes_by_cuisine/Mexican.json (15 recipes)
+  Wrote allrecipes_by_cuisine/Italian.json (10 recipes)
+  Wrote allrecipes_by_cuisine/Indian.json (56 recipes)
+  Wrote allrecipes_by_cuisine/French.json (47 recipes)
+  Wrote allrecipes_by_cuisine/Amish_and_Mennonite.json (60 recipes)
+  Wrote allrecipes_by_cuisine/Skip_to_content.json (3 recipes)
+  Wrote allrecipes_by_cuisine/Chinese.json (46 recipes)
+  Wrote allrecipes_by_cuisine/German.json (55 recipes)
+  Wrote allrecipes_by_cuisine/Greek.json (37 recipes)
+  Wrote allrecipes_by_cuisine/Filipino.json (64 recipes)
+  Wrote allrecipes_by_cuisine/Japanese.json (51 recipes)
+  Wrote allrecipes_by_cuisine/African_Recipes.json (59 recipes)
+  Wrote allrecipes_by_cuisine/Asian_Recipes.json (6 recipes)
+  Wrote allrecipes_by_cuisine/Australian_and_New_Zealander_Recipes.json (64 recipes)
+  Wrote allrecipes_by_cuisine/European_Recipes.json (3 recipes)
+  Wrote allrecipes_by_cuisine/Middle_Eastern_Recipes.json (50 recipes)
+  Wrote allrecipes_by_cuisine/Latin_American_Recipes.json (0 recipes)
+  Wrote allrecipes_by_cuisine/Canadian_Recipes.json (66 recipes)
+  Wrote allrecipes_by_cuisine/US_Recipes.json (0 recipes)
+  Wrote allrecipes_by_cuisine/Korean_Recipes.json (46 recipes)
+  Wrote allrecipes_by_cuisine/Thai_Recipes.json (50 recipes)
+  Wrote allrecipes_by_cuisine/French_Recipes.json (47 recipes)
+  Wrote allrecipes_by_cuisine/Southern_Recipes.json (38 recipes)
+  Wrote allrecipes_by_cuisine/Jewish_Recipes.json (63 recipes)
+  Wrote allrecipes_by_cuisine/Soul_Food_Recipes.json (67 recipes)
+  Wrote allrecipes_by_cuisine/US_Recipes_by_State.json (21 recipes)
+  Wrote allrecipes_by_cuisine/New_England_Recipes.json (65 recipes)
+  Wrote allrecipes_by_cuisine/Tex-Mex_Recipes.json (50 recipes)
+  Wrote allrecipes_by_cuisine/Cajun_and_Creole_Recipes.json (43 recipes)
+  Wrote allrecipes_by_cuisine/Amish_and_Mennonite_Recipes.json (60 recipes)
+Separate lists: allrecipes_by_cuisine/

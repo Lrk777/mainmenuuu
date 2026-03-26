@@ -1,0 +1,66 @@
+Resuming: 6 cuisines done.
+
+[1/12] Mexican ...
+  Found 15 recipe links
+  scraped 10/15
+  Saved 15 recipes for Mexican.
+
+[2/12] Italian ...
+  Found 10 recipe links
+  scraped 10/10
+  Saved 10 recipes for Italian.
+
+[3/12] Chinese ...
+  Could not load cuisine page, skipping.
+
+[4/12] Indian ...
+  Found 56 recipe links
+  scraped 10/56
+  scraped 20/56
+  scraped 30/56
+  scraped 40/56
+  scraped 50/56
+  Saved 56 recipes for Indian.
+
+[5/12] Japanese ...
+  Could not load cuisine page, skipping.
+
+[6/12] Thai ...
+  Could not load cuisine page, skipping.
+
+[7/12] Greek ...
+  Could not load cuisine page, skipping.
+
+[8/12] French ...
+  Found 47 recipe links
+  scraped 10/47
+  scraped 20/47
+  scraped 30/47
+  scraped 40/47
+  Saved 47 recipes for French.
+
+[9/12] German ...
+  Could not load cuisine page, skipping.
+
+[10/12] Spanish ...
+  Could not load cuisine page, skipping.
+
+[11/12] Southern United States ...
+  Could not load cuisine page, skipping.
+
+[12/12] Cajun and Creole ...
+  Could not load cuisine page, skipping.
+
+Done. Output: allrecipes_by_cuisine.json
+Cuisines: 10, Total recipes: 249
+  Wrote allrecipes_by_cuisine/World_Cuisine.json (3 recipes)
+  Wrote allrecipes_by_cuisine/Asian.json (6 recipes)
+  Wrote allrecipes_by_cuisine/European.json (3 recipes)
+  Wrote allrecipes_by_cuisine/African.json (59 recipes)
+  Wrote allrecipes_by_cuisine/Middle_Eastern.json (50 recipes)
+  Wrote allrecipes_by_cuisine/Latin_American.json (0 recipes)
+  Wrote allrecipes_by_cuisine/Mexican.json (15 recipes)
+  Wrote allrecipes_by_cuisine/Italian.json (10 recipes)
+  Wrote allrecipes_by_cuisine/Indian.json (56 recipes)
+  Wrote allrecipes_by_cuisine/French.json (47 recipes)
+Separate lists: allrecipes_by_cuisine/

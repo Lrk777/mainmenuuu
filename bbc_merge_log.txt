@@ -1,0 +1,198 @@
+Using 19 cuisine collections.
+
+[1/19] American -> American
+  24 recipe links
+  scraped 5/24
+  scraped 10/24
+  scraped 15/24
+  scraped 20/24
+
+[2/19] British -> British
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[3/19] Caribbean -> Caribbean
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[4/19] Chinese -> Chinese
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[5/19] French -> French
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[6/19] Greek -> Greek
+  23 recipe links
+  scraped 5/23
+  scraped 10/23
+  scraped 15/23
+  scraped 20/23
+
+[7/19] Japanese -> Japanese
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[8/19] German -> German
+  23 recipe links
+  scraped 5/23
+  scraped 10/23
+  scraped 15/23
+  scraped 20/23
+
+[9/19] Mexican -> Mexican
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[10/19] Moroccan -> Moroccan
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[11/19] Spanish -> Spanish
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[12/19] Thai -> Thai
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[13/19] Mediterranean -> Mediterranean
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[14/19] Turkish -> Turkish
+  25 recipe links
+  scraped 5/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[15/19] Vietnamese -> Vietnamese
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[16/19] Middle Eastern -> Middle Eastern
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[17/19] Scandinavian -> Scandinavian
+  25 recipe links
+  scraped 5/25
+  scraped 10/25
+  scraped 15/25
+  scraped 20/25
+  scraped 25/25
+
+[18/19] Polish -> Polish
+  24 recipe links
+  scraped 5/24
+  scraped 10/24
+  scraped 15/24
+  scraped 20/24
+
+[19/19] Polish baking recipes -> Polish
+  14 recipe links
+  scraped 5/14
+  scraped 10/14
+
+Merging into existing cuisine lists (no overwrite, no duplicates)...
+  Asian.json: 6 recipes
+  Chinese.json: 70 recipes
+  Thai_Recipes.json: 50 recipes
+  French.json: 71 recipes
+  Australian_and_New_Zealander_Recipes.json: 64 recipes
+  New_England_Recipes.json: 65 recipes
+  US_Recipes_by_State.json: 21 recipes
+  Amish_and_Mennonite_Recipes.json: 60 recipes
+  Soul_Food_Recipes.json: 67 recipes
+  Latin_American.json: 0 recipes
+  Amish_and_Mennonite.json: 60 recipes
+  Tex-Mex_Recipes.json: 50 recipes
+  Mexican.json: 39 recipes
+  World_Cuisine.json: 3 recipes
+  African.json: 59 recipes
+  German.json: 77 recipes
+  Jewish_Recipes.json: 63 recipes
+  US_Recipes.json: 0 recipes
+  Japanese.json: 75 recipes
+  American.json: 24 recipes
+  Filipino.json: 64 recipes
+  Skip_to_content.json: 3 recipes
+  Latin_American_Recipes.json: 0 recipes
+  Canadian_Recipes.json: 66 recipes
+  European.json: 3 recipes
+  Korean_Recipes.json: 46 recipes
+  European_Recipes.json: 3 recipes
+  British.json: 24 recipes
+  Asian_Recipes.json: 6 recipes
+  Middle_Eastern_Recipes.json: 50 recipes
+  Indian.json: 56 recipes
+  French_Recipes.json: 47 recipes
+  Southern_Recipes.json: 38 recipes
+  Middle_Eastern.json: 50 recipes
+  Greek.json: 59 recipes
+  African_Recipes.json: 59 recipes
+  Italian.json: 10 recipes
+  Cajun_and_Creole_Recipes.json: 43 recipes
+  Caribbean.json: 24 recipes
+  Moroccan.json: 24 recipes
+  Spanish.json: 24 recipes
+  Thai.json: 24 recipes
+  Mediterranean.json: 23 recipes
+  Turkish.json: 23 recipes
+  Vietnamese.json: 24 recipes
+  Middle_Eastern.json: 22 recipes
+  Scandinavian.json: 24 recipes
+  Polish.json: 32 recipes
+
+Done. Merged data in allrecipes_by_cuisine/ and allrecipes_by_cuisine.json
+Uncertain: 0 recipes in Uncertain_cuisine.json
